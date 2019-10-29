@@ -1,5 +1,3 @@
-
-
 # PERSONAL WEBSITE
 
 # iqbalmmm.com
@@ -19,8 +17,8 @@ You can visit me on
 
 ## Screenshots
 
-![Home] (images/home1.png)
+![Home](images/home1.png)
 
-![About] (images/about1.png)
+![About](images/about1.png)
 
-![contact] (images/contacts.png)
+![contact](images/contacts.png)
