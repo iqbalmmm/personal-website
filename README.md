@@ -15,6 +15,7 @@ You can visit me on
 - About to read more about the person
 - Blog to read writings by the person
 - Contact to communicate with the person
+- git
 
 ## Screenshots
 
