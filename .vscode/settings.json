@@ -13,5 +13,6 @@
         "statusBarItem.hoverBackground": "#e6e6e6",
         "statusBar.foreground": "#15202b"
     },
-    "peacock.color": "#fff"
+    "peacock.color": "#fff",
+    "liveServer.settings.multiRootWorkspaceName": "personal-website"
 }
